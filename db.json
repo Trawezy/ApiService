@@ -1,5 +1,5 @@
 {
-  "User": [
+  "Users": [
     { "id": 1, "Name": "Sergey", "Email": "qweq@gmail", "Phone": "4929852343" },
     { "id": 2, "Name": "Ivan", "Email": "q123q@gmail", "Phone": "49453461343" },
     { "id": 3, "Name": "Ksyha", "Email": "uiqwe@gmail", "Phone": "499727459743" }
