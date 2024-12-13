@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "User": [
+    { "id": 1, "Name": "Sergey", "Email": "qweq@gmail", "Phone": "4929852343" },
+    { "id": 2, "Name": "Ivan", "Email": "q123q@gmail", "Phone": "49453461343" },
+    { "id": 3, "Name": "Ksyha", "Email": "uiqwe@gmail", "Phone": "499727459743" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
